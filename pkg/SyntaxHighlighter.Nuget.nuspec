@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SyntaxHighlighter.NuGet</id>
+    <version>3.0.83.01</version>
+    <authors>Alex Gorbatchev</authors>
+    <owners></owners>
+    <licenseUrl>https://github.com/alexgorbatchev/syntaxhighlighter/blob/master/MIT-LICENSE</licenseUrl>
+    <projectUrl>http://alexgorbatchev.com/SyntaxHighlighter/download/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SyntaxHighlighter is an open source Java Script client side code syntax highlighter.</description>
+    <releaseNotes>Contains js source and styles.</releaseNotes>
+    <copyright>Copyright 2004-2014</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
